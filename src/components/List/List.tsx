@@ -51,7 +51,7 @@ export const List = ({
   infinite,
 }: ListProps): JSX.Element => {
   return (
-    <ListComponent id={infinite ? "scrollableDiv" : ""}>
+    <ListComponent data-testid="songs-list" id={infinite ? "scrollableDiv" : ""}>
       {infinite ? (
         <InfiniteScroll
           dataLength={data?.length!}
