@@ -12,7 +12,7 @@ import { EventInputType, RED_COLOR } from "./style/config";
 import { Header, Menu } from "./blocks";
 import { globalFilter } from "./helpers/globalFilter";
 import { Song } from "./types/song";
-import { deletePlaylistSong, getPlaylist, getSongs, postSong } from "./songs";
+import { deletePlaylistSong, getPlaylist, getSongs, postSong } from "./SongApi";
 import { faHeart } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
