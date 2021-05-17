@@ -1,6 +1,11 @@
 # Rockstars IT App
 
-In the project directory, you can run:
+## About
+
+You will see a complete list of music tracks.
+Create a playlist and then add your favorite songs to your playlist.
+You can find your favorite artists in no time with the search bar.
+You can remove them afterwards. In the project directory, you can run:
 
 ### `yarn` or `npm install`
 
@@ -29,10 +34,3 @@ Run the playlist that is made by the user.
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-## How to
-
-You will see a complete list of music tracks. 
-Create a playlist and then add your favorite songs to your playlist. 
-You can find your favorite artists in no time with the search bar. 
-You can remove them afterwards.
