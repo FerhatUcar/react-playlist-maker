@@ -1,0 +1,88 @@
+{
+  "songs": [
+    {
+      "id": 946,
+      "name": "(We Are) The Road Crew '08",
+      "year": 1980,
+      "artist": "Motörhead",
+      "shortname": "wearetheroadcrew",
+      "bpm": 133,
+      "duration": 167900,
+      "genre": "Metal",
+      "spotifyId": "3XynKtOANF0x6ZXRMyyxjs",
+      "album": "(We Are) The Road Crew '08"
+    },
+    {
+      "id": 1364,
+      "name": "(Listen to the) Flower People (Reggae Stylee)",
+      "year": 2009,
+      "artist": "Spinal Tap",
+      "shortname": "flowerpeople",
+      "bpm": 120,
+      "duration": 197350,
+      "genre": "Metal",
+      "spotifyId": "5Qe3fjOInx8FitkywWeDKn",
+      "album": "Back From The Dead"
+    },
+    {
+      "id": 1068,
+      "name": "13 Steps to Nowhere",
+      "year": 1996,
+      "artist": "Pantera",
+      "shortname": "13stepstonowhere",
+      "bpm": 171,
+      "duration": 225121,
+      "genre": "Metal",
+      "spotifyId": "6K1cfUIyg9cwjd55bZjJcw",
+      "album": "The Great Southern Trendkill"
+    },
+    {
+      "id": 2392,
+      "name": "A-YO",
+      "year": 2016,
+      "artist": "Lady Gaga",
+      "shortname": "ayo",
+      "bpm": 150,
+      "duration": 209599,
+      "genre": "Pop/Dance/Electronic",
+      "spotifyId": "6Az2Ll2CPnWYQ2BgiHf4Di",
+      "album": "Joanne"
+    },
+    {
+      "id": 1118,
+      "name": "1901",
+      "year": 2009,
+      "artist": "Phoenix",
+      "shortname": "nineteenohone",
+      "bpm": 143,
+      "duration": 192509,
+      "genre": "Alternative",
+      "spotifyId": "5JtPGzRgrWxkXX9LoROq3d",
+      "album": "Wolfgang Amadeus Phoenix"
+    },
+    {
+      "id": 1429,
+      "name": "1969",
+      "year": 1969,
+      "artist": "The Stooges",
+      "shortname": "nineteensixtynine",
+      "bpm": 93,
+      "duration": 269973,
+      "genre": "Rock",
+      "spotifyId": "4nJCE9UyNXhuERnSX8YgSH",
+      "album": "The Stooges"
+    },
+    {
+      "id": 1456,
+      "name": "20th Century Boy",
+      "year": 1973,
+      "artist": "T. Rex",
+      "shortname": "20thcenturyboy",
+      "bpm": 131,
+      "duration": 236585,
+      "genre": "Glam",
+      "spotifyId": "0pUY6OoQQPeXMT54qmKtkX",
+      "album": "Tanx"
+    }
+  ]
+}
